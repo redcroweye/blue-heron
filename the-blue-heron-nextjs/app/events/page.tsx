@@ -7,7 +7,7 @@ export default function EventsPage() {
         <div className="border border-zinc-800 rounded-2xl p-6">
           <h2 className="text-2xl mb-4">Chef Tasting Experience</h2>
           <p className="text-zinc-400">
-            Multi-course seasonal tasting menu experience.
+            Seasonal tasting menu experience.
           </p>
         </div>
       </div>
