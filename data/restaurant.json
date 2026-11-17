@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "The Blue Heron",
+  "image": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-19/599458750_17845881237622545_8196155649539069513_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-den2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFmYgvkVgoppQ05OvNrcnVbL6UvR5Q3hBOCx3ZQ04LJ9TOLtX3ys6oEmtXHE5OPnEkVZ4HPCEZdZjkCKGtBImIX&_nc_ohc=Vauq2UQvB6EQ7kNvwH5FFF2&_nc_gid=4SRI5-n1FM70In-PYiFPWg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Af-9INRT9CQUg3FpjHo4iFNhIZq8fr944LdIEYMloWzkDA&oe=6A2A438B&_nc_sid=7a9f4b",
+  "url": "https://theblueheron.restaurant",
+  "telephone": "+1-605-416-9804",
+  "email": "theblueheronblackhills@gmail.com",
+  "priceRange": "$$-$$$",
+  "servesCuisine": [
+    "American",
+    "Fine Dining",
+    "Relaxed Dining",
+    "Refined Cuisine",
+    "Farm-to-Table",
+    "Local Ingredients",
+    "Seasonal Menu",
+    "Handcrafted Cocktails",
+    "Curated Wines",
+    "Elevated Hospitality"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "740 Mountain View Road",
+    "addressLocality": "Rapid City",
+    "addressRegion": "SD",
+    "postalCode": "57702",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.0784538,
+    "longitude": -103.253009
+  },
+  "acceptsReservations": true,
+  "menu": "https://theblueheron.restaurant/#menu",
+  "sameAs": [
+    "https://www.facebook.com/p/The-Blue-Heron-61577899644569/",
+    "https://www.instagram.com/theblueheronblackhills/",
+    "https://www.yelp.com/biz/the-blue-heron-rapid-city"
+  ]
+}

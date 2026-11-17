@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Starters & Salads",
+    "subtitle": "",
+    "items": [
+      {
+        "name": "Steak Tartare (aka Tiger Meat)*",
+        "price": "$19",
+        "description": "Diced Teres Major, Cornichons, Capers, Shallots, Tarragon, Chives, Sourdough Bread"
+      },
+      {
+        "name": "House Salad (v)",
+        "price": "$12",
+        "description": "Bibb Lettuce, Crispy Fried Onions, Radishes, House-Made Buttermilk Ranch Dressing"
+      },
+      {
+        "name": "Cheese Plate (v)",
+        "price": "$20",
+        "description": "Marieke Gouda, Penta Bleu, Humboldt Fog, Fresh Fruit, Almonds, House-Made Focaccia"
+      },
+      {
+        "name": "Beet Salad (v)",
+        "price": "$14",
+        "description": "Roasted Beets, Ricotta, Wasabi-Candied Pistachios, Red Wine Vinaigrette, micro Arugula"
+      },
+      {
+        "name": "Crab Beignets",
+        "price": "$22",
+        "description": "Lump Crab, Black Pepper Jam, Apple, Arugula"
+      },
+      {
+        "name": "Butternut Squash Soup (v)",
+        "price": "$9 bowl / $5 cup",
+        "description": "Puréed Butternut Squash, Diced Butternut Squash, Spiced Crème fraîche, Pepitas, Chives "
+      },
+      {
+        "name": "Peach Salad (v)",
+        "price": "$16",
+        "description": "Fresh Peaches, Red Wine Gastrique, Goat Cheese, Wasabi-Candied Pistachios, Micro Arugula, Basil Oil"
+      }
+    ]
+  },
+  {
+    "title": "Entrées",
+    "subtitle": "",
+    "items": [
+      {
+        "name": "Teres Major Steak",
+        "price": "$43",
+        "description": "Pan-Roasted Steak, Garlic Mashed Potatoes, Baby Broccoli, Bordelaise Sauce"
+      },
+      {
+        "name": "Pork Shank",
+        "price": "$40",
+        "description": "Braised Pork Shank, Garlic Mashed Potatoes, Roasted Beats, Spiced Jus"
+      },
+      {
+        "name": "Lakeview Colony Chicken",
+        "price": "$34",
+        "description": "Roasted Half Chicken, Walnut-Sausage Stuffing, Green Beans, Lemon Rosemary Veloute"
+      },
+      {
+        "name": "Pan Roasted Pork Loin",
+        "price": "$25",
+        "description": "Mashed Sweet Potatoes, Roasted Brussel Sprouts, Apple Slaw, Spiced Jus"
+      },
+      {
+        "name": "Skuna Bay Salmon*",
+        "price": "$38",
+        "description": "Bacon and Tomato Braised Lentils, Fennel Salad, Parsley, Herb Oil"
+      },
+      {
+        "name": "Bolognese",
+        "price": "$24",
+        "description": "Beef and Pork Ragù, Rigatoni Pasta, Tomato, Spinach, Oregano, Parmesan"
+      },
+      {
+        "name": "Fall Squash Gnocchi (v)",
+        "price": "$22",
+        "description": "House-Made Gnocchi, Butternut Squash-Ginger Purée, Roasted Butternut Squash, Roasted Mushrooms, Sage, Microgreens"
+      },
+      {
+        "name": "Fish ‘n’ Chips",
+        "price": "$28",
+        "description": "Tempura Battered Walleye, House-Made Tartar Sauce, House-Made Salt & Vinegar Chips, Fries, Salad (add $2)"
+      },      
+      {
+        "name": "Double Smash Burger",
+        "price": "$18",
+        "description": "Grilled Onions, American Cheese, Dill Pickles, Bib Lettuce, House-Made Burger Sauce, Choice of House-Made Salt & Vinegar Chips or Fries"
+      }
+    ]
+  },
+  {
+    "title": "Sides",
+    "subtitle": "",
+    "items": [
+      {
+        "name": "House-Made Chips",
+        "price": "$5",
+        "description": "House Salt & Vinegar Seasoning"
+      },
+      {
+        "name": "Garlic Mashed Potatoes",
+        "price": "$6",
+        "description": "Crème Fraîche, Chives"
+      },
+      {
+        "name": "Fries",
+        "price": "$5",
+        "description": "House Salt & Vinegar Seasoning"
+      },
+      {
+        "name": "Mashed Sweet Potatoes",
+        "price": "$6",
+        "description": "Chives"
+      },
+      {
+        "name": "Baby Broccoli",
+        "price": "$7",
+        "description": "Garlic, Chili, Lemon, Parmesan"
+      }
+    ]
+  }
+]

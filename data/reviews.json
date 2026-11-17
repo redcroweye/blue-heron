@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Adriana Pingel",
+    "image": "https://lh3.googleusercontent.com/a-/ALV-UjVqMPaMLzhSFOSbGQ6ITLUjZ-UXyzKDk5PCdZtJfuwtw0vDBPrKIA=w144-h144-p-rp-mo-ba12-br100",
+    "rating": 5,
+    "date": "Google Review",
+    "text": "We had a truly exceptional dinner here. I opted for the trout while my husband had the steak; both were executed to perfection. It was clear that every component was handled with care,",
+    "link": "https://maps.app.goo.gl/LLhxDsUBCK3JthCr7"
+  },
+  {
+    "name": "Christina Thompson",
+    "image": "https://lh3.googleusercontent.com/a-/ALV-UjV6uzlwATeGL2CSOW9hhJpJ2trNt2R7IlCtr1J8MJlK7eIXX4yRvw=w144-h144-p-rp-mo-br100",
+    "rating": 5,
+    "date": "Google Review",
+    "text": "We had such a great experience at Blue Heron! From the moment we walked in, the service was amazing—everyone was so friendly and welcoming, which made the whole night even better.",
+    "link": "https://maps.app.goo.gl/LLhxDsUBCK3JthCr7"
+  },
+  {
+    "name": "Cassidy Godfrey",
+    "image": "https://lh3.googleusercontent.com/a-/ALV-UjUFMTI0398n8xn9x9igOi53Ifk6_GI9dD4agD620KZ4pcug6Bux=w144-h144-p-rp-mo-br100",
+    "rating": 5,
+    "date": "Google Review",
+    "text": "We had a great experience at The Blue Heron! The crab beignets were perfectly paired with a black pepper sauce that I wanted to take home with me.",
+    "link": "https://maps.app.goo.gl/LLhxDsUBCK3JthCr7"
+  }
+]
