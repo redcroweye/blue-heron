@@ -1,6 +1,6 @@
 {
   "title": "Cheap Date Night",
-  "subtitle": "Wednesday 9/30/26 & Thursday 10/1/26",
+  "subtitle": "Wednesday 11/18/26 & Thursday 11/19/26",
   "price": "$50 for Two",
   "description": "Each guest chooses an entrée with the paired beer or wine. If you prefer to skip the drinks and both choose the non-alcoholic option, enjoy one dessert to share instead.",
   "sections": [
@@ -9,36 +9,36 @@
       "subtitle": "Choose one per guest",
       "items": [
         {
-          "name": "Pan Roasted Pork Loin",
+          "name": "Chicken Parmesan Sandwich",
           "price": "",
-          "description": "Mashed Sweet Potatoes, Roasted Brussels Sprouts, Apple Slaw, Spiced Jus",
+          "description": "Hand Breaded Chicken Breast, Mozzarella, Basil Butter, Marinara, Hoagie Bun, Served with Fries",
           "pairings": [
             {
               "label": "Wine",
-              "name": "A/V Pinot Noir 2023",
-              "description": "Alexander Valley"
+              "name": "Böen Pinot Noir 2023",
+              "description": "California"
+            },
+            {
+              "label": "Beer",
+              "name": "Fernson Lion’s Paw",
+              "description": "Amber Lager"
+            }
+          ]
+        },
+        {
+          "name": "Creamy Fettuccine Pasta",
+          "price": "",
+          "description": "Fettuccine, Garlic Parmesan Cream Sauce, Broccoli, Peas, Spinach",
+          "pairings": [
+            {
+              "label": "Wine",
+              "name": "Risata Prosecco D.O.C. Extra Dry NV",
+              "description": "Veneto, Italy"
             },
             {
               "label": "Beer",
               "name": "Grain Belt Premium",
               "description": "The Friendly Beer · Minnesota · Nice!"
-            }
-          ]
-        },
-        {
-          "name": "Corn & Leek Risotto",
-          "price": "",
-          "description": "Arborio Rice, Corn, Leeks, Zucchini, Basil, Parmesan",
-          "pairings": [
-            {
-              "label": "Wine",
-              "name": "Château du Pont Sauvignon Blanc 2024",
-              "description": "France"
-            },
-            {
-              "label": "Beer",
-              "name": "Mich Ultra",
-              "description": "Yellowish · Low ABV Diet Bubble Water"
             }
           ]
         }
@@ -59,9 +59,9 @@
           "description": "Chocolate Ganache, Oreo Cookie Crust, French Vanilla Ice Cream"
         },
         {
-          "name": "Lemon Tart",
+          "name": "Pumpkin Pie",
           "price": "",
-          "description": "Lemon Curd, Raspberry Sauce, Toasted Meringue, Sable Dough"
+          "description": "Spiced Pumpkin Filling, Traditional Pie Crust, Whipped Cream, Cream Cheese Ice Cream, Salted Caramel, Pecan Crumble"
         }
       ]
     }
