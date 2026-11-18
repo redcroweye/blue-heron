@@ -1,0 +1,45 @@
+{
+  "name": "The Blue Heron",
+  "tagline": "Relaxed Dining, Refined Cuisine in Rapid City",
+
+  "indexable": false,
+  "siteUrl": "https://theblueheron.restaurant",
+
+  "phone": "(605) 416-9804",
+  "phoneDigits": "+16054169804",
+  "email": "theblueheronblackhills@gmail.com",
+
+  "street": "740 Mountain View Road",
+  "city": "Rapid City",
+  "region": "SD",
+  "zip": "57702",
+  "locationNote": "Between RC Hardware and Safeway",
+  "latitude": 44.0784538,
+  "longitude": -103.253009,
+  "directionsUrl": "https://maps.google.com/?q=740+Mountain+View+Rd+Rapid+City+SD+57702",
+
+  "hours": {
+    "days": "Tuesday – Saturday",
+    "opens": "4:00 PM",
+    "lastSeating": "9:00 PM",
+    "closedDays": "Sunday and Monday",
+    "schemaDays": ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "schemaOpens": "16:00",
+    "schemaCloses": ""
+  },
+  "reservationNote": "Reservations not necessary, but encouraged.",
+  "dressNote": "Whether you're in shorts & a t-shirt or dressed to the nines, come as you are & we will take care of you.",
+  "serviceAnimalNote": "Service animals welcome. Well behaved of course.",
+
+  "priceRange": "$$-$$$",
+  "cuisine": ["American", "French"],
+
+  "googleReviewsUrl": "https://share.google/IT75QzOiUqkZjX4gl",
+  "yelpUrl": "https://www.yelp.com/biz/the-blue-heron-rapid-city",
+  "social": [
+    { "name": "Facebook", "blurb": "Announcements & Events", "url": "https://www.facebook.com/profile.php?id=61577899644569" },
+    { "name": "Instagram", "blurb": "Behind the Scenes & Plates", "url": "https://www.instagram.com/theblueheronblackhills/" },
+    { "name": "Yelp", "blurb": "Community Guest Reviews", "url": "https://www.yelp.com/biz/the-blue-heron-rapid-city?osq=the+blue+heron+rapid+city" },
+    { "name": "Google", "blurb": "Maps, Photos & Feedback", "url": "https://maps.google.com/?q=740+Mountain+View+Rd+Rapid+City+SD+57702" }
+  ]
+}

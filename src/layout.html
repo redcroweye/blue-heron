@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!-- GENERATED FILE. Do not edit here. Edit src/ or data/, then run: python3 scripts/build.py -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+{{robots_tag}}
+{{canonical_tag}}
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{description}}">
+<meta property="og:site_name" content="{{site_name}}">
+{{og_image_tag}}
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" href="{{root}}assets/img/favicon.svg" type="image/svg+xml">
+<link rel="alternate icon" href="{{root}}assets/img/favicon.ico">
+<link rel="apple-touch-icon" href="{{root}}assets/img/apple-touch-icon.png">
+<link rel="stylesheet" href="{{root}}assets/css/site.css">
+{{schema}}
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+{{draft_banner}}
+<header class="site-header">
+  <div class="container header-row">
+    <a class="header-logo" href="{{root}}" aria-label="{{site_name}} home">
+      <img src="{{root}}assets/img/BH-Horizontal-White.svg" alt="{{site_name}}" width="260">
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      {{nav}}
+      <a class="btn btn-light" href="{{root}}reservations/">Reserve</a>
+    </nav>
+  </div>
+</header>
+<main id="main">
+{{content}}
+</main>
+<footer class="site-footer">
+  <div class="container footer-row">
+    <div>&copy; {{year}} {{site_name}}. All Rights Reserved.</div>
+    <div>{{street}}, {{city}}, {{region}} {{zip}} &middot; <a href="tel:{{phone_digits}}">{{phone}}</a></div>
+    <div>Locally Owned &amp; Operated in the Black Hills</div>
+  </div>
+</footer>
+</body>
+</html>

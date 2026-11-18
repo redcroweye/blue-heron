@@ -1,0 +1,96 @@
+<section class="hero" style="{{hero_style}}">
+  <div class="container">
+    <img class="hero-logo" src="{{root}}assets/img/BH-Standard-White.svg" alt="{{site_name}}" width="520">
+    <h1>{{tagline}}</h1>
+    <div class="btn-row">
+      <a class="btn btn-light" href="{{root}}reservations/">Reserve a table</a>
+      <a class="btn btn-light" href="{{root}}menu/">View the menu</a>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="container band-grid">
+    <div><span class="label">Dinner</span>{{hours_days}}, from {{hours_opens}}</div>
+    <div><span class="label">Last seating</span>{{hours_last}}</div>
+    <div><span class="label">Find us</span>{{street}}, {{city}}, {{region}} {{zip}}</div>
+    <div><span class="label">Call</span><a href="tel:{{phone_digits}}">{{phone}}</a></div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container split {{about_class}}">
+    <div>
+      <h2>Friendly Hospitality.<br>Elevated Flavors.</h2>
+      <p>Located in Rapid City at the western entrance to the Black Hills, the Blue Heron pairs traditional French technique with the agricultural heritage and flavors of the Northern Great Plains.</p>
+      <p>We are locally owned &amp; operated, with a scratch kitchen committed to creating wonderful seasonal dishes, and a service staff committed to a casual and comprehensive experience.</p>
+      <p>Do yourself a flavor and plan your dinner visit today.</p>
+      <a class="btn" href="{{root}}menu/">View the menu</a>
+    </div>
+    {{about_image}}
+  </div>
+</section>
+
+<section class="section white">
+  <div class="container">
+    <h2 class="section-title">Three ways to eat at The Blue Heron</h2>
+    <p class="section-sub">Dinner, Tuesday to Saturday</p>
+    <div class="cards">
+      <div class="card">
+        <div class="eyebrow">Our kitchen</div>
+        <h3>Scratch cooking, seasonal plates</h3>
+        <p>Dishes built from French technique and ingredients from the Northern Great Plains.</p>
+        <a class="more" href="{{root}}menu/">See the menu</a>
+      </div>
+      <div class="card">
+        <div class="eyebrow">Midweek</div>
+        <h3>Cheap Date Night</h3>
+        <p>{{cheap_price}} for a dinner built for two, with paired beer or wine.</p>
+        <a class="more" href="{{root}}cheap-date-night/">See this week's menu</a>
+      </div>
+      <div class="card">
+        <div class="eyebrow">Passing through</div>
+        <h3>Visiting the Black Hills?</h3>
+        <p>Dinner after Mount Rushmore, Crazy Horse or Custer State Park, with drive times from our door.</p>
+        <a class="more" href="{{root}}visiting-the-black-hills/">Plan your evening</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2 class="section-title center">Guest Reviews</h2>
+    <p class="section-sub center">What people are saying about The Blue Heron</p>
+    <div class="cards">
+{{reviews_cards}}
+    </div>
+    <div class="btn-row" style="justify-content:center">
+      <a class="btn" href="{{google_reviews_url}}" target="_blank" rel="noopener noreferrer">Read more reviews on Google</a>
+      <a class="btn" href="{{yelp_url}}" target="_blank" rel="noopener noreferrer">Read reviews on Yelp</a>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="container band-grid" style="align-items:center">
+    <div style="max-width:620px">
+      <span class="label">Coming soon</span>
+      <strong style="font-weight:600;font-size:1.2rem">Private events at The Blue Heron</strong><br>
+      Rehearsal dinners, birthdays and company dinners. Tell us what you are planning.
+    </div>
+    <a class="btn btn-light" href="{{root}}private-events/">Get first notice</a>
+  </div>
+</section>
+
+{{hours_location}}
+
+<section class="section white center">
+  <div class="container">
+    <h2 class="section-title">Join Our Community</h2>
+    <p class="section-sub" style="margin-bottom:0">Follow our updates or share your experience</p>
+    <div class="social-grid">
+{{social_cards}}
+    </div>
+  </div>
+</section>

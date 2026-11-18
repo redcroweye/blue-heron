@@ -1,0 +1,9 @@
+{
+  "note": "Approximate drive times from the restaurant. Check them in Google Maps before you publish; traffic and season change them.",
+  "sights": [
+    { "name": "Mount Rushmore National Memorial", "time": "about 30 minutes" },
+    { "name": "Crazy Horse Memorial", "time": "about 45 minutes" },
+    { "name": "Custer State Park", "time": "about 45 minutes" },
+    { "name": "Badlands National Park", "time": "about 1 hour" }
+  ]
+}

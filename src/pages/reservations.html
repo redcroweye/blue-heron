@@ -1,0 +1,39 @@
+<section class="hero compact left" style="{{hero_style}}">
+  <div class="container">
+    <div class="eyebrow">Reservations, hours and location</div>
+    <h1>Reserve a Table at The Blue Heron in Rapid City</h1>
+    <p class="lead">{{reservation_note}} Call us, or email for groups and special requests.</p>
+    <div class="btn-row">
+      <a class="btn btn-light" href="tel:{{phone_digits}}">Call {{phone}}</a>
+      <a class="btn btn-light" href="mailto:{{email}}">Email us</a>
+    </div>
+  </div>
+</section>
+
+<section class="section white">
+  <div class="container">
+    <h2 class="section-title">Hours</h2>
+    <p class="section-sub">Dinner service</p>
+    <div class="rows">
+      <div class="row"><span>{{hours_days}}</span><span class="when">{{hours_opens}}, last seating {{hours_last}}</span></div>
+      <div class="row"><span>{{hours_closed}}</span><span class="when">Closed</span></div>
+    </div>
+    <p class="muted" style="margin-top:24px;max-width:640px">{{dress_note}} {{animal_note}}</p>
+  </div>
+</section>
+
+{{hours_location}}
+
+<section class="section">
+  <div class="container">
+    <h2 class="section-title center">Guest Reviews</h2>
+    <p class="section-sub center">What people are saying about The Blue Heron</p>
+    <div class="cards">
+{{reviews_cards}}
+    </div>
+    <div class="btn-row" style="justify-content:center">
+      <a class="btn" href="{{google_reviews_url}}" target="_blank" rel="noopener noreferrer">Read more on Google</a>
+      <a class="btn" href="{{yelp_url}}" target="_blank" rel="noopener noreferrer">Read on Yelp</a>
+    </div>
+  </div>
+</section>
